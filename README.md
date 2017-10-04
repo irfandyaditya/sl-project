@@ -1,3 +1,3 @@
 # sl-project
 
-Smart Learning Project
+SL Project
